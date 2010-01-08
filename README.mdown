@@ -3,6 +3,16 @@
 This is a collection of the textmate themes I have installed.  A few I created, but most I've
 scarfed off of the interwebs.  Of the ones I know/remember I'll try to document their source here.
 
+### Installation
+
+I have this repo set up as my themes directory.  To set that up for yourself, follow these steps:
+
+1. cd ~/Library/Application\ Support/TextMate
+1. rm -rf Themes (make sure you save any existing themes you have first)
+1. git clone git clone git@github.com:jwhitmire/tm-themes.git Themes
+
+### Miscellaneous Themes
+
 * [Bespin](http://deepend.com/mdiolosa/Bespin.tmTheme) by [Michael Diolosa](http://deepend.com/)
 * [Black Pearl](http://github.com/ajwitte/textmate-goodies/blob/master/Black%20Pearl.tmTheme) by [Andrew Witte](http://github.com/ajwitte)
 * [Black Pearl II](http://github.com/ajwitte/textmate-goodies/blob/master/Black%20Pearl%20II.tmTheme) by [Andrew Witte](http://github.com/ajwitte)
@@ -13,14 +23,14 @@ scarfed off of the interwebs.  Of the ones I know/remember I'll try to document 
 * [Whys Poignant](http://trippledoubleyou.subtlegradient.com/tmthemes/Whys%20Poignant.tmTheme) from [Why's Poignant Guide](http://poignantguide.net/ruby/)
 
 
-Themes by [mediaupstream](http://github.com/mediaupstream):
+### Themes by [mediaupstream](http://github.com/mediaupstream):
 
 * [Upstream](http://github.com/mediaupstream/Upstream-Textmate-Themes/blob/master/Upstream/Upstream.tmTheme)
 * [Upstream Sunburst](http://github.com/mediaupstream/Upstream-Textmate-Themes/blob/master/Upstream%20Sunburst/Upstream%20Sunburst.tmTheme) by [mediaupstream](http://github.com/mediaupstream)
 * [Upstream Vibrant](http://github.com/mediaupstream/Upstream-Textmate-Themes/blob/master/Upstream%20Vibrant/Upstream%20Vibrant.tmTheme) by [mediaupstream](http://github.com/mediaupstream)
 
 
-Themes by [mig](http://github.com/mig/textmate_themes):
+### Themes by [mig](http://github.com/mig/textmate_themes):
 
 * All Hallow's Eve Custom
 * Blackboard Black
@@ -38,12 +48,12 @@ Themes by [mig](http://github.com/mig/textmate_themes):
 * Vibrant Tango
 
 
-Themes by [Ryan Bates](http://github.com/ryanb)
+### Themes by [Ryan Bates](http://github.com/ryanb)
 
 * [ryan-light](http://github.com/ryanb/textmate-themes/blob/master/ryan-light.tmTheme)
 * [railscast](http://github.com/ryanb/textmate-themes/blob/master/railscasts.tmTheme)
 
 
-Other good theme resources:
+### Other good theme resources:
 
 * [Textmate Wiki](http://wiki.macromates.com/Themes/UserSubmittedThemes)

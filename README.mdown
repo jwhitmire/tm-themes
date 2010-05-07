@@ -18,7 +18,6 @@ I have this repo set up as my themes directory.  To set that up for yourself, fo
 * [Black Pearl II](http://github.com/ajwitte/textmate-goodies/blob/master/Black%20Pearl%20II.tmTheme) by [Andrew Witte](http://github.com/ajwitte)
 * [Django](http://code.djangoproject.com/attachment/wiki/TextMate/Django.tmTheme.zip) by [Jannis Leidel](http://jannisleidel.com/2007/05/django-textmate-theme/)
 * [Django (Smoothy)](http://code.djangoproject.com/attachment/wiki/TextMate/django-smoothytmtheme.zip) by sbull@trapeze.com
-* [Dominion Day](http://www.khiltd.com/software/dominion_day)
 * [RubyBlue](http://github.com/jlong/rubyblue/blob/master/RubyBlue.tmTheme) by [John Long](http://github.com/jlong)
 * [Whys Poignant](http://trippledoubleyou.subtlegradient.com/tmthemes/Whys%20Poignant.tmTheme) from [Why's Poignant Guide](http://poignantguide.net/ruby/)
 

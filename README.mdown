@@ -1,3 +1,9 @@
+# NOTICE:
+
+Since I don't use Textmate anymore, this is a dormant project.  I have a
+different collection of themes this has been folded into that has yet to be
+published, but feel free to get in touch if you're interested.
+
 # My collection of textmate themes
 
 This is a collection of the textmate themes I have installed.  A few I created, but most I've
